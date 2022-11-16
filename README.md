@@ -1,4 +1,4 @@
 
 npm i
 <br/>
-npm run sttart
+npm run start
